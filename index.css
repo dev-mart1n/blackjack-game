@@ -1,37 +1,37 @@
 body {
-	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
-		sans-serif;
-	background-image: url("images/table.png");
-	background-size: cover;
-	background-repeat: no-repeat;
-	font-weight: bold;
-	color: white;
-	text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
+    sans-serif;
+  background-image: url("images/table.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-weight: bold;
+  color: white;
+  text-align: center;
 }
 
 h1 {
-	color: goldenrod;
-	font-size: 56px;
+  color: goldenrod;
+  font-size: 56px;
 }
 
 #message-el {
-	font-size: 24px;
-	font-style: italic;
+  font-size: 24px;
+  font-style: italic;
 }
 
 p {
-	font-size: 24px;
+  font-size: 24px;
 }
 
 button {
-	color: #016f32;
-	width: 150px;
-	background: goldenrod;
-	padding: 10px 0;
-	font-size: 18px;
-	font-weight: bold;
-	border: none;
-	border-radius: 5px;
-	margin: 5px;
-	cursor: pointer;
+  color: #016f32;
+  width: 150px;
+  background: goldenrod;
+  padding: 10px 0;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
 }
